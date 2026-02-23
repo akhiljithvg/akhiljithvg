@@ -31,6 +31,9 @@ I am a dedicated robotics developer specializing in autonomous navigation and co
 **Robotics & Systems:**
 <p align="left">
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Nav2-3498DB?style=for-the-badge&logo=ros&logoColor=white" alt="Nav2" />
+  <img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="RViz" />
+  <img src="https://img.shields.io/badge/SLAM-4B0082?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="SLAM" />
   <img src="https://img.shields.io/badge/🤖_Gazebo-FF8000?style=for-the-badge" alt="Gazebo" />
   <img src="https://img.shields.io/badge/🎛️_Control_Systems-000000?style=for-the-badge" alt="Control System" />
   <img src="https://img.shields.io/badge/🗺️_Path_Planning-4B0082?style=for-the-badge" alt="Path Planning" />
@@ -49,6 +52,6 @@ I am a dedicated robotics developer specializing in autonomous navigation and co
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhiljithvg&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&v=7" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljithvg&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&v=7" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhiljithvg&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&v=8" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljithvg&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&v=8" alt="Top Languages" width="45%" />
 </div>

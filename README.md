@@ -5,7 +5,7 @@
   
   <a href="https://akhiljith-gigi-portfolio.vercel.app/"><strong>🌐 Visit My Portfolio</strong></a> | 
   <a href="mailto:akhiljithvg444@gmail.com"><strong>✉️ Contact Me</strong></a> | 
-  <a href="https://linkedin.com/in/akhiljithvg"><strong>🤝 LinkedIn</strong></a>
+  <a href="https://linkedin.com/in/akhiljithgigi"><strong>🤝 LinkedIn</strong></a>
 </div>
 
 <br>

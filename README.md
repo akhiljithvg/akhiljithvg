@@ -51,11 +51,10 @@ I am a dedicated robotics developer specializing in autonomous navigation and co
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/akhiljithvg">
-    <img src="https://github-readme-stats.vercel.app/api?username=akhiljithvg&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/akhiljithvg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljithvg&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+<br>
+
+## 📊 GitHub Activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhiljithvg&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/akhiljithvg)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljithvg&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/akhiljithvg)

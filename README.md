@@ -13,12 +13,7 @@
 ## 👨‍💻 About Me
 I am a dedicated robotics developer specializing in autonomous navigation and computer vision. I am passionate about building robust systems that allow machines to perceive and interact with their environments safely and efficiently. Currently, I am focused on expanding my expertise in ROS 2 and advanced perception algorithms.
 
-## 🚀 Featured Projects
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Autonomous Navigation Robot](link-to-repo)** | A ROS 2 based robot capable of autonomous mapping and navigation in simulated environments. | ROS 2, Nav2, Gazebo, C++ |
-| **[Vision-Based Lane Following](link-to-repo)** | An autonomous system utilizing OpenCV for real-time lane detection and path correction. | Python, OpenCV, Raspberry Pi |
-| **[Hardware Integration Platform](link-to-repo)** | Physical robot build incorporating sensor fusion for obstacle avoidance and environmental mapping. | RPLidar, IMU, Linux |
+
 
 ## 🛠️ Technical Arsenal
 

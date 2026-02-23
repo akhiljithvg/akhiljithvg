@@ -52,6 +52,10 @@ I am a dedicated robotics developer specializing in autonomous navigation and co
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhiljithvg&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&v=8" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljithvg&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&v=8" alt="Top Languages" width="45%" />
+  <a href="https://github.com/akhiljithvg">
+    <img src="https://github-readme-stats.vercel.app/api?username=akhiljithvg&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/akhiljithvg">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljithvg&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
 </div>

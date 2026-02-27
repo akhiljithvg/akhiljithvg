@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Akhiljit Gigi 👋</h1>
+  <h1>Hi, I'm Akhiljith Gigi 👋</h1>
   <h3>Robotics & Perception Engineer</h3>
   <p>Bridging the gap between software algorithms and physical hardware.</p>
   
